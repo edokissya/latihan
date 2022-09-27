@@ -1,2 +1,4 @@
 -susu
 -cup
+-sirup
+-kopi
