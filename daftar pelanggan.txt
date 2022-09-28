@@ -1,7 +1,6 @@
 -ocep
 -riko
 -niko
--rio
 -erik
 -jhon
 -rezki
