@@ -3,3 +3,5 @@
 -sirup
 -kopi
 -gula
+-wda
+-adws
