@@ -1,4 +1,11 @@
 -ocep
 -riko
 -niko
--rio
+-erik
+-jhon
+-rezki
+<<<<<<< HEAD
+adsd
+adsf
+=======
+>>>>>>> origin/disini
